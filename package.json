@@ -1,6 +1,6 @@
 {
   "name": "nest-line-bot",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "LINE Bot module for Nest",
   "author": "Chun-Kai Wang <chunkai1312@gmail.com>",
   "keywords": [
